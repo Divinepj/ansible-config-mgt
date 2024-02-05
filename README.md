@@ -2,4 +2,6 @@
 
 hello i am doing project 10
 
-i have fully resumed my devopts trainning
+i have fully resumed my devopts trainning.
+
+let it go boss
